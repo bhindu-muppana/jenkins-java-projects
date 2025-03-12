@@ -17,13 +17,13 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>Email</label>
         </div>
         <div class="form-control">
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit"> BYE  </button>
+        <button type="submit"> CHILL  </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
@@ -32,7 +32,7 @@
           <a href="#">Need help?</a>
         </div>
       </form>
-      <p>New to NNNNNNNNNNNetflix? <a href="#">Lets join uxxp now</a></p>
+      <p>New to Netflix? No prblem! <a href="#">Lets watch together</a></p>
       <small>
         This page is protected by Google reCAPTCHA to ensure you're not a bot.
         <a href="#">Learn more.</a>
