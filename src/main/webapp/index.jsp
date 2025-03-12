@@ -13,15 +13,15 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>  BHINDU.</h2>
+      <h2>  PANI PATA LEDHAA CHUDU AYTHE.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Email</label>
+          <label>Email Rayii</label>
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Password</label>
+          <label>Password Pettu</label>
         </div>
         <button type="submit"> CHILL  </button>
         <div class="form-help">
@@ -29,7 +29,7 @@
             <input type="checkbox" id="remember-me" />
             <label for="remember-me">Remember me</label>
           </div>
-          <a href="#">Need help?</a>
+          <a href="#">Sayam kavalaa?</a>
         </div>
       </form>
       <p>New to Netflix? No prblem! <a href="#">Lets watch together</a></p>
